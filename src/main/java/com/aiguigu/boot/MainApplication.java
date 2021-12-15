@@ -53,7 +53,7 @@ public class MainApplication {
 
         boolean haha = run.containsBean("haha");
         boolean hehe = run.containsBean("hehe");
-        System.out.println("哈不哈？" + haha);
+        System.out.println("哈不哈？**********************" + haha);
         System.out.println("呵不呵？" + hehe);
 
 
